@@ -7,8 +7,8 @@ class Dog
 
   end
 
-  def all
-
+  def self.all
+    @@all
   end
 
 
